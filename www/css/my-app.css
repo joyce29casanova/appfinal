@@ -1,0 +1,20 @@
+button{
+	color:blue;
+	font-size: 50px;
+	background-color: red;
+	border:none;
+}
+
+input{
+	font-size: 100px;
+}
+
+.text{
+	font-size: 100px;
+	font-family: 'tahoma';
+}
+
+.txt{
+	font-size: 35px;
+	font-family: 'tahoma';
+}
